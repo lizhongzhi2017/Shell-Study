@@ -1,0 +1,61 @@
+number:name:python:shell:	
+180306001:fan tie hong    :81:82: 
+180306002:gao jia bao     :93:94: 
+180306003:gao xin lei     :76:76: 
+180306004:he yan          :93:94: 
+180306005:jiang zhuo liang:67:67: 
+180306006:kou ying        :79:79: 
+180306007:lei he cheng    :91:91: 
+180306008:li jia yu       :90:90: 
+180306009:li yu peng      :67:67: 
+180306010:liu guang zhao  :82:84: 
+180306011:liu hong yang   :74:74: 
+180306012:liu xin         :81:82: 
+180306013:lu ran          :62:60: 
+180306014:luo qi feng     :71:72: 
+180306015:ma wen han      :0: 0 :
+180306016:song yu         :85:80: 
+180306017:tan hua qiong   :83:80: 
+180306018:tao jia miao    :85:80: 
+180306019:tao yi chen     :44:60: 
+180306020:wang chun yu    :81:78: 
+180306021:wang jia qi     :40:39: 
+180306022:yu jin hui      :81:81: 
+180306023:yu ze hao       :86:85: 
+180306024:zhang cheng xu  :60:60: 
+180306025:zhang ting ting :82:81: 
+180306026:zhang wei hao   :68:68: 
+180306027:zhang xiang long:95:93: 
+180306028:zhi guo zhu     :70:69: 
+180306029:zhu yun fei     :84:84: 
+180306030:bo ji yuan      :94:94: 
+180306031:gao huan ru     :80:80: 
+180306032:gao meng luan   :79:78: 
+180306033:han yan ze      :62:62: 
+180306034:huang xiao xuan :72:73: 
+180306035:jiao yan        :84:74: 
+180306036:li han          :75:74: 
+180306037:li jia he       :65:65: 
+180306038:li wen hao      :61:60: 
+180306039:liu ji zhao     :95:95: 
+180306040:liu jia jun     :95:95: 
+180306041:liu tian hui    :80:79: 
+180306042:lv chao yue     :67:67: 
+180306043:lv jun ting     :79:81: 
+180306044:ma meng qi      :64:64: 
+180306045:min fan yu      :77:77: 
+180306046:sun cheng bo    :76:76: 
+180306047:sun chun yu     :73:73: 
+180306048:sun gui bin     :66:66: 
+180306049:wang xin yu     :80:80: 
+180306050:su nan          :92:92: 
+180306051:yan jia xin     :96:96: 
+180306052:zhang chun sheng:93:93: 
+180306053:zhang pan       :94:94: 
+180306054:zhang tian hao  :60:60: 
+180306055:zhang xiang han :86:88: 
+180306056:zhao si wei     :85:88: 
+180306057:zhao xin        :93:93: 
+180306058:zhao zhen       :61:60: 
+180306059:zhu hong xi     :61:60: 
+180306060:zhu zi wei      :77:80: 
