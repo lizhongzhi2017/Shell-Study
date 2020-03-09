@@ -1,11 +1,11 @@
 number:name:python:shell:	
-180306001:fan tie hong    :81:82: 
-180306002:gao jia bao     :93:94: 
+180306001:fan tie hong    :81:82:
+180306002:gao jia bao     :93:94:
 180306003:gao xin lei     :76:76: 
 180306004:he yan          :93:94: 
 180306005:jiang zhuo liang:67:67: 
 180306006:kou ying        :79:79: 
-180306007:lei he cheng    :91:91: 
+180306007:lei he cheng    :91:91:
 180306008:li jia yu       :90:90: 
 180306009:li yu peng      :67:67: 
 180306010:liu guang zhao  :82:84: 
